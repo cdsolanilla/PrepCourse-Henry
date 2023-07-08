@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Prueba Modulo 2
+Prueba del Modulo 2
